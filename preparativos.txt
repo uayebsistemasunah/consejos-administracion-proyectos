@@ -1,3 +1,4 @@
 1. Entender cual es el problema de negocio.
-2. identificar las personas claves
-3. Identificar quien sera nuestro PM
+2. identificar las personas claves.
+3. Identificar quien sera nuestro PM y PO.
+4. Identificar el lider tecnico del proyecto.
