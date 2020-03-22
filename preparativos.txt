@@ -1,0 +1,2 @@
+1. Entender cual es el problema de negocio.
+2. identificar las personas claves.
