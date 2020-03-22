@@ -1,4 +1,5 @@
 1. Entender cual es el problema de negocio.
-2. identificar las personas claves
-3. Identificar quien sera nuestro PM y Product owner.
+2. identificar las personas claves.
+3. Identificar quien sera nuestro PM y PO.
 4. Analizar el presupuesto con el que se cuenta
+5. Identificar el lider tecnico del proyecto.
